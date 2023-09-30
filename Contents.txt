@@ -1,0 +1,13 @@
+" Jupyter source file (ipynb) contains the following contents "
+
+List Of Contents:
+1. Importing Libraries
+2. Data Collection
+3. Domain Analysis
+4. Data Exploration
+5. Data Pre Processing
+6. Model Creation
+7. Model Evaluation
+8. Evaluation Summary
+9. Challenges Faced
+10. Conclusion
