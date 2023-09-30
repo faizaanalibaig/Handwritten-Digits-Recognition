@@ -11,6 +11,9 @@
 7. **Challenges Faced**
 8. **Conclusion**
 
+###  Introduction:
+The Handwritten Digit Recognition project aims to develop and evaluate machine learning models for the classification of handwritten digits (0 to 9) using the MNIST dataset. This report provides a comprehensive analysis of the project, including dataset insights, model architectures, performance evaluation, challenges faced, and concluding recommendations.
+
 ### 1. Project Overview
 The MNIST Handwritten Digit Recognition project aims to develop and evaluate machine learning models for accurately classifying handwritten digits (0 to 9) using the MNIST dataset. The project involves creating, training, and comparing various model architectures to achieve optimal digit recognition accuracy.
 
