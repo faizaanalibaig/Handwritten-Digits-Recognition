@@ -42,5 +42,3 @@ The project concludes with a model comparison, highlighting the best-performing 
 This High-Level Design document provides an overview of the MNIST Handwritten Digit Recognition project's structure, objectives, and key components, serving as a reference for project development and evaluation.
 
 [End of Document]
-
-You can adapt and expand upon this HLD document as needed and save it in your project's GitHub repository.
