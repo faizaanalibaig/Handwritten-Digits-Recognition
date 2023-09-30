@@ -1,0 +1,9 @@
+Jupyter notebook | Colab notebook
+Python 
+numpy
+pandas
+matplotlib
+seaborn
+sklearn
+tensorflow
+keras
