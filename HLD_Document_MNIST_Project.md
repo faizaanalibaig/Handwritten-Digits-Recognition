@@ -44,4 +44,7 @@ The project concludes with a model comparison, highlighting the best-performing 
 
 This High-Level Design document provides an overview of the MNIST Handwritten Digit Recognition project's structure, objectives, and key components, serving as a reference for project development and evaluation.
 
+<br>
+
+**Note:** Detailed technical specifications, algorithms, and code implementation details are typically provided in separate ipynb file sections of the project repository.
 [End of Document]
