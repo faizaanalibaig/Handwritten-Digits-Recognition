@@ -1,6 +1,6 @@
 " Jupyter source file (ipynb) contains the following contents "
 
-List Of Contents:
+List Of Contents : -
 1. Importing Libraries
 2. Data Collection
 3. Domain Analysis
